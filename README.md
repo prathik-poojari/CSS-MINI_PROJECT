@@ -12,7 +12,7 @@ This project is a demonstration of a simple navigation system created using HTML
 
 ## Demo
 
-Check out the live demo [https://prathik-poojari.github.io/CSS-MINI_PROJECT/](https://github.com/prathik-poojari).
+Check out the live demo [https://prathik-poojari.github.io/CSS-MINI_PROJECT/]([https://github.com/prathik-poojari](https://prathik-poojari.github.io/CSS-MINI_PROJECT/)).
 
 ## How to Use
 
